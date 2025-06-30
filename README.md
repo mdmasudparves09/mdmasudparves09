@@ -49,8 +49,8 @@ Welcome to my GitHub profile! I’m Md Masud Parves, a passionate programmer on 
 ## 📫 Connect with Me
 
 - **GitHub:** [mdmasudparves09](https://github.com/mdmasudparves09)
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile URL]
+- **Email:** [mdmasudparves09@gmail.com](mailto:mdmasudparves09@gmail.com)
+- **LinkedIn:** [mdmasudparves09](https://www.linkedin.com/in/mdmasudparves09/)
 
 ---
 
