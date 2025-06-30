@@ -24,6 +24,28 @@ Welcome to my GitHub profile! I’m Md Masud Parves, a passionate programmer on 
 
 ---
 
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudparves09&theme=gruvbox&margin-w=15&margin-h=15)
+
+---
+
+## 📊 GitHub Stats
+
+![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmasudparves09&show_icons=true&theme=gruvbox&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmasudparves09&layout=compact&theme=gruvbox&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mdmasudparves09&theme=gruvbox&hide_border=true)
+
+---
+
+## ✨ Profile Visitors
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=mdmasudparves09&style=flat-square)
+
+---
+
 ## 📫 Connect with Me
 
 - **GitHub:** [mdmasudparves09](https://github.com/mdmasudparves09)
